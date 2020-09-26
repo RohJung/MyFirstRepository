@@ -15,6 +15,10 @@
 
     운동,식단을 커뮤니티 집단과 소통하는 앱
     
+<img width = "300" height="200" src="./homework4/squat.jfif"></img>
+<img width = "300" height="200" src="./homework4/chicken.jfif"></img>
+
+
 건강에 대한 관심이 높아지면서 운동을 하는 사람들이 많아지는 것을 주변에서 쉽게 찾을 수 있다.
 
 자신의 운동영상과 식단사진을 관심사가 같은 사람들끼리 공유하게 되면
