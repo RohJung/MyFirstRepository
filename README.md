@@ -32,3 +32,8 @@
 모르는 지식은 집단에게서 그 답을 구할 수 있고
 
 자신이 누군가에게 지식을 알려줄 수 있는 서로 도움이 되는 앱을 개발 하고 싶다.
+
+  **##7주차 과제물**
+  
+  <img width = "200" height="450" src="./homework7/dog.PNG"></img>
+  <img width = "200" height="450" src="./homework7/cat.PNG"></img>
